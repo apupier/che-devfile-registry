@@ -8,7 +8,6 @@ projects:
     source:
       type: git
       location: "https://github.com/apache/camel-k"
-      sparseCheckoutDir: "examples"
 components:
   -
     type: chePlugin
