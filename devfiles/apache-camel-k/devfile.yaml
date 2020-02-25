@@ -19,4 +19,4 @@ components:
   -
     alias: vscode-camelk
     type: chePlugin
-    id: redhat/vscode-camelk/latest
+    reference: https://raw.githubusercontent.com/apupier/che-plugin-registry/camelkwithopenshift/v3/plugins/redhat/vscode-camelk/0.0.12/meta.yaml
